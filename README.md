@@ -11,6 +11,7 @@ Resonator ideas:
 * Piece of a cymbal cut up with an angle grinder
 * Steel bar stock
 * Tuning fork
+* Bass guitar string
 
 It would be cool to design the resonator to be easily replacable.
 
