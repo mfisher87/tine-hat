@@ -1,5 +1,7 @@
 # TineHat
 
+> :warning: This project is only in the idea stage.
+
 An open hardware design for an electic hi-hat.
 
 The TineHat is inspired by [Git-hat](https://www.youtube.com/watch?v=t-gVMHY8_VY), with the objective to lose the guitar but enable similar expressive capabilities.
